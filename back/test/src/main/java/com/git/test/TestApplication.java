@@ -9,6 +9,7 @@ public class TestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 		System.out.println("테스트입니다");
+		System.out.println("2번째 테스트");
 	}
 
 }
